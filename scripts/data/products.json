@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mouse_1",
+    "name": "Logitech G203",
+    "price": "U$D30",
+    "category": "mouse",
+    "description": "Lightweight gaming mouse, good for FPS, budget friendly"
+  },
+  {
+    "id": "gpu_1",
+    "name": "RTX 4060",
+    "price": "U$D2500",
+    "category": "gpu",
+    "description": "8GB VRAM, good for IA local and video editing"
+  },
+  {
+    "id": "notebook_1",
+    "name": "Dell XPS 15",
+    "price": "U$D8000",
+    "category": "notebook",
+    "description": "High performance laptop for video editing and heavy workloads"
+  }
+]
